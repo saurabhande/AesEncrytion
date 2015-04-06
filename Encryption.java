@@ -1,3 +1,9 @@
+/*
+Both of the sites below give information on how to implement encryption and best practices
+http://nelenkov.blogspot.com/2012/04/using-password-based-encryption-on.html
+http://karanbalkar.com/2014/02/tutorial-76-implement-aes-256-encryptiondecryption-using-java/
+*/
+
 package com.masi.encryption;
 
 import java.security.AlgorithmParameters;
